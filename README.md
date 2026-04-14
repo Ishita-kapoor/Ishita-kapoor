@@ -15,19 +15,24 @@
 
 ```python
 ishita = {
-    "currently_building": "peer-to-peer marketplace for college students",
-    "learning":           ["React", "SQL", "backend dev", "deployment", "Git"],
-    "ask_me_about":       ["ML-powered web apps", "KNN recommender systems", "FastAPI + Next.js"],
+    "currently_building": "data analysis portfolio for analyst roles",
+    "learning":           ["SQL", "Power BI", "pandas", "React", "backend dev"],
+    "ask_me_about":       ["data analysis", "ML-powered web apps", "KNN recommender systems"],
     "fun_fact":           "can switch between coding, sketching, and hitting the gym — same day",
-    "reads":              True,
-    "draws":              True,
-    "lifts":              True,
 }
 ```
 
 ---
 
 ### ✦ projects
+
+**🛒 Blinkit Sales & Delivery Analysis** — *SQL + Python EDA*
+> Analyzed 5,000+ orders across a 9-table SQLite database to find that delivery delays 
+> don't hurt ratings — except in Pharmacy, where significant delays cause a 7% rating drop.
+
+`SQL` `Python` `pandas` `matplotlib` `SQLite`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/Ishita-kapoor/Blinkit-Sales-Analysis)
 
 **🎬 CineMatch** — *ML-powered Netflix Recommendation Engine*
 > Hybrid KNN model combining Sentence-BERT, TF-IDF and metadata to find shows that match the vibe, not just the genre. 67.7% genre accuracy with 0.44 diversity distance vs 0.0046 for a pure genre filter.
@@ -53,6 +58,9 @@ ishita = {
 
 <div align="center">
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
